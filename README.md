@@ -1,8 +1,10 @@
 # Wineberry-Raspberry-Maryland
-Application to compare spread of Wineberry (invasive) to Black Raspberry (native) across Maryland Counties from 2016 to early 2026. Data was used from iNaturalist database. 
+Application to compare spread of wineberry (invasive) to black raspberry (native) across Maryland Counties from 2016 to early 2026. Data was used from iNaturalist database, and the full datasets are included under the wineberry and black raspberry folders. 
+
+Project was made for a data visualization course.
 
 ## To use
-Download all files. 
+Download all files in Final_Product. 
 Required libraries: 
 * dash
 * pandas
